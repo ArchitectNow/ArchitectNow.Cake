@@ -253,3 +253,4 @@ paket-files/
 tools/Cake
 tools/GitVersion.CommandLine
 nuget.exe
+VersionAssemblyInfo.cs
