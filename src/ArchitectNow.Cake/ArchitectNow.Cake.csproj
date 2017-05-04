@@ -17,10 +17,6 @@
 	  <PackageReference Include="Cake.Common" Version="0.19.4">
 		  <PrivateAssets>All</PrivateAssets>
 	  </PackageReference>
-	  <PackageReference Include="Cake.Core" Version="0.19.4">
-		  <PrivateAssets>All</PrivateAssets>
-	  </PackageReference>
-	  <PackageReference Include="System.Runtime" Version="4.1.0" />
   </ItemGroup>
 <ItemGroup>
     <Compile Include="..\..\VersionAssemblyInfo.cs" Link="VersionAssemblyInfo.cs" />
