@@ -250,3 +250,7 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+tools/Cake
+tools/GitVersion.CommandLine
+nuget.exe
+VersionAssemblyInfo.cs
