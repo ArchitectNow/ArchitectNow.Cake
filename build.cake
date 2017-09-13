@@ -11,6 +11,7 @@ var configuration           = Argument("configuration", "Release");
 var treatWarningsAsErrors   = Argument("treatWarningsAsErrors", "false");
 var solutionPath            = MakeAbsolute(File(Argument("solutionPath", "./ArchitectNow.Cake.sln")));
 var myGetApiKey             = EnvironmentVariable("myGetApiKey");
+var nugetApiKey             = EnvironmentVariable("nugetApiKey");
 
 //////////////////////////////////////////////////////////////////////
 // PREPARATION
